@@ -10,7 +10,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(Calculator.FactorialOf(5), 120);
+            Assert.AreEqual(Calculator.FactorialOf(5), 10);
         }
         [TestMethod]
         public void TestMethod2()
